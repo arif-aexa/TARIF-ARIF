@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.haderh1 {
+  background: linear-gradient(90deg, #ab83e6 0%, #613e93 100%);
+}
+
+.header-section {
+  background-image: url(./img/hader\ bg.png);
+}
+
+.button {
+  background: linear-gradient(90deg, #613e93 0%, #ab83e6 100%);
+}
+
+.section5 {
+  background: linear-gradient(90deg, #ab83e6 0%, #613e93 100%);
+}
+.card {
+  background: linear-gradient(270deg, #151719 0%, #050505 100%);
+}
+
+.blackbutton {
+  background: linear-gradient(90deg, #16171b 0%, #060607 94.69%);
+}
+
+.sectionls {
+  background: linear-gradient(90deg, #ab83e6 0%, #613e93 100%);
+}
+
+body {
+  font-family: "Play", sans-serif;
+}
